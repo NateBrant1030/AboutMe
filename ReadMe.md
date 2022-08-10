@@ -1,5 +1,5 @@
 # About Me
-[top]
+[top]:
 ---
 ---
 ## summary
@@ -23,4 +23,7 @@ im a harrison high school student who is also takeing half days at SICTC for com
 
 [this is my link](https://www.yes.com "yes.com")
 [to top][top]
+## person of intresset
 
+[Abraham](https://en.wikipedia.org/wiki/Abraham_Lincoln)
+![Abraham]()
