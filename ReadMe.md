@@ -25,5 +25,5 @@ im a harrison high school student who is also takeing half days at SICTC for com
 [to top][top]
 ## person of intresset
 
-[Abraham](https://en.wikipedia.org/wiki/Abraham_Lincoln)
+[Abraham](https://en.wikipedia.org/wiki/Abraham_Lincoln)<br>
 ![Abraham](https://github.com/NateBrant1030/AboutMe/blob/main/download.jpg)
